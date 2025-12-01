@@ -3,11 +3,11 @@ const filesDB = {
         name: "Animatronic_Memories.zip",
         size: "606 MB",
         type: "Archive (.zip)",
-        username: "admin",
+        username: "kaosu",
         verified: true,
         admin: true,
         banned: false,
-        downloadUrl: "http://001.us.svr.kaosu-hosting.online:32644/231/Animatronic_Memories.zip"
+        downloadUrl: "https://dl.kaosu.xyz:32644/231/Animatronic_Memories.zip"
     },
 };
 
@@ -68,3 +68,4 @@ document.addEventListener('DOMContentLoaded', () => {
         </div>`;
 
 });
+
