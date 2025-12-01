@@ -7,7 +7,7 @@ const filesDB = {
         verified: true,
         admin: true,
         banned: false,
-        downloadUrl: "https://dl.kaosu.xyz:32644/231/Animatronic_Memories.zip"
+        downloadUrl: "https://dl.kaosu.xyz:7562/231/Animatronic_Memories.zip"
     },
 };
 
@@ -68,4 +68,5 @@ document.addEventListener('DOMContentLoaded', () => {
         </div>`;
 
 });
+
 
